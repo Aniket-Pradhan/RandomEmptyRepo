@@ -9,7 +9,7 @@ author_name: Aniket Pradhan
 author_email: aniket17133@iiitd.ac.in
 # whether to release on fedora. False by default
 fedora: false
-pypi: false
+pypi: true
 # list of fedora branches bot should release on. Master is always implied
 fedora_branches:
   - f27
